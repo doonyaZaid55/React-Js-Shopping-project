@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/React-Js-Shopping-project/static/css/main.b4759ff5.css",
+    "main.js": "/React-Js-Shopping-project/static/js/main.32501384.js",
+    "static/js/787.46493d11.chunk.js": "/React-Js-Shopping-project/static/js/787.46493d11.chunk.js",
+    "static/media/2.png": "/React-Js-Shopping-project/static/media/2.5f080d9e47bf46ca3fce.png",
+    "static/media/3.png": "/React-Js-Shopping-project/static/media/3.c7785c796d0b2bf5aa2b.png",
+    "static/media/4.png": "/React-Js-Shopping-project/static/media/4.dce93278370eb9a94e56.png",
+    "static/media/1.png": "/React-Js-Shopping-project/static/media/1.87f6c2f48f7e15ed845b.png",
+    "static/media/8.webp": "/React-Js-Shopping-project/static/media/8.8bd0ab9ccc0cf9fb335d.webp",
+    "static/media/5.png": "/React-Js-Shopping-project/static/media/5.a13c8fc38072a14d6633.png",
+    "static/media/6.webp": "/React-Js-Shopping-project/static/media/6.5828a0fe3c77468b8726.webp",
+    "static/media/7.webp": "/React-Js-Shopping-project/static/media/7.59c9a0eba54726d9fc95.webp",
+    "index.html": "/React-Js-Shopping-project/index.html",
+    "main.b4759ff5.css.map": "/React-Js-Shopping-project/static/css/main.b4759ff5.css.map",
+    "main.32501384.js.map": "/React-Js-Shopping-project/static/js/main.32501384.js.map",
+    "787.46493d11.chunk.js.map": "/React-Js-Shopping-project/static/js/787.46493d11.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b4759ff5.css",
+    "static/js/main.32501384.js"
+  ]
+}
